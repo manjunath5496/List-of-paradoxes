@@ -44,9 +44,7 @@
 <ul>
 <li><a title="Ship of Theseus" href="https://en.wikipedia.org/wiki/Ship_of_Theseus"><strong>Ship of Theseus</strong></a>: It seems like one can replace any component of a ship, and it is still the same ship. So they can replace them all, one at a time, and it is still the same ship. However, they can then take all the original pieces, and assemble them into a ship. That, too, is the same ship they began with.</li>
 </ul>
-<dl>
-<dd>See also&nbsp;<a title="List of Ship of Theseus examples" href="https://en.wikipedia.org/wiki/List_of_Ship_of_Theseus_examples"><strong>List of Ship of Theseus examples</strong></a></dd>
-</dl>
+
 <ul>
 <li><a title="Sorites paradox" href="https://en.wikipedia.org/wiki/Sorites_paradox"><strong>Sorites paradox</strong></a>&nbsp;(also known as the&nbsp;<a class="mw-redirect" title="Paradox of the heap" href="https://en.wikipedia.org/wiki/Paradox_of_the_heap">paradox of the heap</a>): If one removes a single grain of sand from a heap, they still have a heap. If they keep removing single grains, the heap will disappear. Can a single grain of sand make the difference between heap and non-heap?</li>
 </ul>
